@@ -1,10 +1,12 @@
 # 📝 Note-Taking App using React & Grok AI
 
+- Welcome to my AI-Powered Note-Taking App project! 🚀✨
+
 ![Screenshot (1191)](https://github.com/user-attachments/assets/eb70e5f6-55e6-409b-b4bc-d10572745905)
+
 
 ![Screenshot (1194)](https://github.com/user-attachments/assets/5ee5b667-8a0f-45d6-be32-3bbd789ee3f6)
 
-- Welcome to my AI-Powered Note-Taking App project! 🚀✨
 - This project is a smart and intuitive note-taking application built using React, Tailwind CSS, and Grok AI by X.
 - It provides seamless note management with AI-assisted features for an enhanced user experience.
 
